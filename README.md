@@ -6,6 +6,8 @@
 ## Features
 - UITableView
 - UICollectionView
+- URLSession
+- Storyboard
 - Google Books API
 
 ## Demo
